@@ -1,0 +1,10 @@
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\bin\Debug\GarageLibraryApp.exe.config
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\bin\Debug\GarageLibraryApp.exe
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\bin\Debug\GarageLibraryApp.pdb
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\bin\Debug\ClassLibrary1.dll
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\obj\Debug\GarageLibraryApp.csproj.AssemblyReference.cache
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\obj\Debug\GarageLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\obj\Debug\GarageLi.6D7D67C0.Up2Date
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\obj\Debug\GarageLibraryApp.exe
+C:\Users\308\source\repos\GarageLibraryApp\GarageLibraryApp\obj\Debug\GarageLibraryApp.pdb

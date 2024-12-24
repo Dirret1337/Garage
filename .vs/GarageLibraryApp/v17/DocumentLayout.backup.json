@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\308\\source\\repos\\GarageLibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC64BF5-E0DF-4A5E-894B-0D2F5822C180}|GarageLibraryApp\\GarageLibraryApp.csproj|c:\\users\\308\\source\\repos\\garagelibraryapp\\garagelibraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC64BF5-E0DF-4A5E-894B-0D2F5822C180}|GarageLibraryApp\\GarageLibraryApp.csproj|solutionrelative:garagelibraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\308\\source\\repos\\GarageLibraryApp\\GarageLibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "GarageLibraryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\308\\source\\repos\\GarageLibraryApp\\GarageLibraryApp\\Program.cs",
+              "RelativeToolTip": "GarageLibraryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:40:51.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
